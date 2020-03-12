@@ -1,3 +1,4 @@
+![still](images/demo-terraform-modules.png)
 1. Execute o comando `cd ~/environment/28ATI-fiap-devops-terraform/demos/Modules/` para entrar na pasta do exercício.
 2. Entre na pasta vpc-call com o comando `cd vpc-call`
 3. Execute o comando `terraform init`

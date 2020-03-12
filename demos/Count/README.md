@@ -1,3 +1,4 @@
+![still](images/demo-terraform-count.png)
 1. Execute o comando `cd ~/environment/28ATI-fiap-devops-terraform/demos/Count/` para entrar no diretório do exercício.
 2. Execute o comando `terraform init`
 3. Execute o comando `terraform apply -auto-approve`
