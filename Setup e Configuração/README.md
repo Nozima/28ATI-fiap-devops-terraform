@@ -39,7 +39,7 @@
    ![](img/preferencescloud9.png)
 21. Escolha 'AWS SETTINGS' no menu lateral e desabilite a função 'AWS managed temporary credentials'
     ![](img/credentialsDisable.png)
-22. De volta ao terminal do Cloud9 utilize o comando `rm ~/.aws/credentials` 
+22. De volta ao terminal do Cloud9 utilize o comando `rm -f ~/.aws/credentials` 
 23. Utilize o comando `nano ~/.aws/credentials` para atribuir valores ao arquivo
 24. Cole o conteudo da credential que copiou do vocareum
 25. Salve com pressionando as teclas 'Control(CTRL) + X' e após 'Y'
